@@ -1,0 +1,19 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nocluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaifeck/expressapp.git"
+  },
+  "author": "Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaifeck/expressapp/issues"
+  },
+  "homepage": "https://github.com/Kaifeck/expressapp#readme"
+}
